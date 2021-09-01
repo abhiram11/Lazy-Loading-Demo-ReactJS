@@ -1,3 +1,6 @@
+# Demo 👇🏽
+<img src="https://i.postimg.cc/3NsH9fFC/trialGif.gif">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
