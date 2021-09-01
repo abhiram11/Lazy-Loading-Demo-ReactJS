@@ -1,4 +1,4 @@
-# Demo 👇🏽
+# Demo 👇🏽 Throttling enabled for better observation.
 <img src="https://i.postimg.cc/3NsH9fFC/trialGif.gif">
 
 # Getting Started with Create React App
